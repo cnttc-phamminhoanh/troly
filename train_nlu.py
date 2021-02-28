@@ -6,7 +6,7 @@ from rasa_nlu.config import RasaNLUModelConfig
 from rasa_nlu.model import Trainer
 from rasa_nlu import config
 from rasa_nlu.model import Metadata, Interpreter
-import feedparser
+
 # Ham train NLU
 #------------
 def train (data, config_file, model_dir):
@@ -29,7 +29,5 @@ def ask_question(text):
     print(interpreter.parse(text))
 
 
-ask_question("Mày cho anh hỏi kết quả cái")
-ask_question("Kết quả thế nào mày")
-
-
+ask_question("xin chào")
+ask_question("Cảm ơn")

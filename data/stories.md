@@ -1,28 +1,4 @@
 
-## Chào hỏi và hỏi kết quả sổ xố
-* greet
-  - utter_greet
-* ask_lottery
-  - action_get_lottery
-* ask_name
-  - utter_ask_name
-* bye
-  - utter_bye
-
-## Chào hỏi đưa tên
-* greet
-  - utter_greet
-* give_name
-  - utter_greet_with_name
-* ask_name
-  - utter_ask_name
-* bye
-  - utter_bye
-
-## Đưa tên luôn
-* give_name
-  - utter_greet_with_name
-
 ## Chào - tên - hỏi chức năng - chào
 * greet
   - utter_greet

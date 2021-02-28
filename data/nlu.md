@@ -1,17 +1,3 @@
-## intent:give_name
-- [Anh](cust_sex) là [Thắng](cust_name)
-- [Anh](cust_sex) là [Chiến Thắng](cust_name)
-- [Anh](cust_sex) tên là [Vương Văn Huy](cust_name)
-- [Chị](cust_sex) là [Hằng](cust_name)
-- [Em](cust_sex) là [Trang](cust_name)
-- [Cô](cust_sex) [Vân](cust_name)
-- [Chú](cust_sex) [Hùng](cust_name)
-
-## intent:ask_lottery
-- Cho anh xem kết quả đê
-- Kết quả số xố hôm này thế nào
-- Mày cho anh hỏi kết quả tý
-- Có kết quả chưa
 
 ## intent:greet
 - xin chào
